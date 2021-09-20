@@ -7,7 +7,7 @@ import ( // パッケージのインポート
 	"time" // Go 標準時間フォーマットパッケージ
 )
 
-func main( ) { // main 関数の定義
+func main( ) { // main 関数の定義、引数は取らない
 	fmt.Println("Welcome to the playground!") // suffix が ln の print は要素間にスペースが入る、改行される
 
 	fmt.Println("The time is", time.Now()) // time.now() で時刻を出力する
