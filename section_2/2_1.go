@@ -11,5 +11,6 @@ func main() {
 	fmt.Println("My favorite number is", rand.Intn(10)) // Int 型の値 n に 1 - 10 を渡す (1 回実行なので 1 が入る)
 }
 
-// output
-// My favorite number is 1
+/* output
+ My favorite number is 1
+*/

@@ -13,6 +13,7 @@ func main( ) { // main 関数の定義、引数は取らない
 	fmt.Println("The time is", time.Now()) // time.now() で時刻を出力する
 }
 
-// output
-// Welcome to the playground!
-// The time is 2009-11-10 23:00:00 +0000 UTC m=+0.000000001
+/* output
+ Welcome to the playground!
+ The time is 2009-11-10 23:00:00 +0000 UTC m=+0.000000001
+*/
