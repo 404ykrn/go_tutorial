@@ -1,4 +1,4 @@
-// section 1
+// section 1_1
 
 package main  // main パッケージの宣言
 
