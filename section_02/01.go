@@ -1,4 +1,4 @@
-// section 2_1
+// section 02_01
 // https://go-tour-jp.appspot.com/basics/1
 package main // main パッケージの宣言
 

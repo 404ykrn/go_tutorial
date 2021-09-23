@@ -1,4 +1,4 @@
-// section 2_2
+// section 02_02
 // https://go-tour-jp.appspot.com/basics/2
 package main
 
