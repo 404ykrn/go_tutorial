@@ -1,5 +1,5 @@
 // section 2_7
-
+// https://go-tour-jp.appspot.com/basics/7
 package main
 
 import "fmt"
