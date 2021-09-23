@@ -1,5 +1,5 @@
 // section 1_1
-
+// https://go-tour-jp.appspot.com/welcome/1
 package main  // main パッケージの宣言
 
 import ( // パッケージのインポート
