@@ -1,4 +1,4 @@
-// section 02_12
+// section 02 Zero values
 // https://go-tour-jp.appspot.com/basics/12
 package main
 
@@ -20,12 +20,12 @@ func main() {
 }
 
 /* デフォルト値について
-i = int 型なので 0
-f = 浮動小数点数は int 型の分類なので 0
-b = bool 型なので false
-s = string 型なので "" (空文字)
+ i = int 型なので 0
+ f = 浮動小数点数は int 型の分類なので 0
+ b = bool 型なので false
+ s = string 型なので "" (空文字)
 */
 
 /* output
-0 0 false ""
+ 0 0 false ""
 */

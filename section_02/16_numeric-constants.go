@@ -1,4 +1,4 @@
-// section 02_16
+// section 02 Numeric Constants
 // https://go-tour-jp.appspot.com/basics/16
 package main
 
@@ -27,7 +27,7 @@ func main() {
 }
 
 /* output
-21
-0.2
-1.2676506002282295e+29
+ 21
+ 0.2
+ 1.2676506002282295e+29
 */

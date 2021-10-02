@@ -1,4 +1,4 @@
-// section 02_13
+// section 02 Type conversions
 // https://go-tour-jp.appspot.com/basics/13
 package main
 

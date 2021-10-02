@@ -1,4 +1,4 @@
-// section 02_04
+// section 02 Functions
 // https://go-tour-jp.appspot.com/basics/4
 package main
 
@@ -18,4 +18,4 @@ func main() {
 
 /* output
  55
- */
+*/

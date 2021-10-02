@@ -1,4 +1,4 @@
-// section 02_07
+// section 02 Named return values
 // https://go-tour-jp.appspot.com/basics/7
 package main
 

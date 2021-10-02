@@ -1,4 +1,4 @@
-// section 02_03
+// section 02 Exported names
 // https://go-tour-jp.appspot.com/basics/3
 package main
 
@@ -16,5 +16,5 @@ func main () {
 }
 
 /* output
-3.141592653589793
+ 3.141592653589793
 */

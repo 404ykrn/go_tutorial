@@ -1,4 +1,4 @@
-// section 03 for.go
+// section 03 For
 // https://go-tour-jp.appspot.com/flowcontrol/1
 package main
 

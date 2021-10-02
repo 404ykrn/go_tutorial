@@ -1,4 +1,4 @@
-// section 02_15
+// section 02 Constants
 // https://go-tour-jp.appspot.com/basics/15
 package main
 
@@ -21,7 +21,7 @@ func main() {
 }
 
 /* output
-Hello 世界
-Happy 3.14 Day
-Go rules? true
+ Hello 世界
+ Happy 3.14 Day
+ Go rules? true
 */

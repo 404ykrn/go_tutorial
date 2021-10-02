@@ -1,4 +1,4 @@
-// section 02_09
+// section 02 Variables with initializers
 // https://go-tour-jp.appspot.com/basics/9
 package main
 

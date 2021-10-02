@@ -1,4 +1,4 @@
-// section 02_05
+// section 02 Functions continued
 // https://go-tour-jp.appspot.com/basics/5
 package main
 

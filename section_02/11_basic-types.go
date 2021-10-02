@@ -1,4 +1,4 @@
-// section 02_11
+// section 02 Basic types
 // https://go-tour-jp.appspot.com/basics/11
 package main
 
@@ -26,7 +26,7 @@ func main() {
 }
 
 /* output
-Type: bool Value: false
-Type: uint64 Value: 18446744073709551615
-Type: complex128 Value: (2+3i)
+ Type: bool Value: false
+ Type: uint64 Value: 18446744073709551615
+ Type: complex128 Value: (2+3i)
 */

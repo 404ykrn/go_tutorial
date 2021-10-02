@@ -1,4 +1,4 @@
-// section 02_06
+// section 02 Multiple results
 // https://go-tour-jp.appspot.com/basics/6
 package main
 
@@ -20,31 +20,31 @@ func main() {
 }
 
 /* := について
-- どちらも省略記法の場合
-func main() {
+ - どちらも省略記法の場合
+ func main() {
 	hoge := 1           // 新規での宣言が可能
 	fuga, hoge := 5, 10 // 再代入が可能
-}
+ }
 
-- どちらも通常記法の場合
-func main() {
+ - どちらも通常記法の場合
+ func main() {
 	var hoge = 1           // 通常の変数宣言
 	var fuga, hoge = 5, 10 // 再代入ができずエラーとなる
-}
+ }
 
-- 先に省略記法とした場合
-func main() {
+ - 先に省略記法とした場合
+ func main() {
 	hoge := 1              // 省略記法の変数宣言
 	var hoge, fuga = 5, 10 // 再代入ができずエラーとなる
-}
+ }
 
-- 先に通常記法とした場合
-func main() {
+ - 先に通常記法とした場合
+ func main() {
 	var hoge = 1        // 通常の変数宣言
 	fuga, hoge := 5, 10 // 再代入が可能
-}
+ }
+*/
 
 /* output
  world hello
 */
-

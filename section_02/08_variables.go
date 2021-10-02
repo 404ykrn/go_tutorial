@@ -1,4 +1,4 @@
-// section 02_08
+// section 02 Variables
 // https://go-tour-jp.appspot.com/basics/8
 package main
 
@@ -15,18 +15,18 @@ func main() {
 }
 
 /* 型のデフォルト値について
-var 変数名 型 = hoge ではなく
-var 変数名 型 しか指定していないため、デフォルト値が返される
-デフォルト値は型によって決まっている
----
-int  : 0
-bool : false
-str  : 空文字
----
+ var 変数名 型 = hoge ではなく
+ var 変数名 型 しか指定していないため、デフォルト値が返される
+ デフォルト値は型によって決まっている
+ ---
+ int  : 0
+ bool : false
+ str  : 空文字
+ ---
 */
 
 /* output
-0 false false false
+ 0 false false false
 */
 
 

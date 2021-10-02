@@ -1,4 +1,4 @@
-// section 02_10
+// section 02 Short variable declarations
 // https://go-tour-jp.appspot.com/basics/10
 package main
 
