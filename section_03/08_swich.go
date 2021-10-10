@@ -16,15 +16,15 @@ func main() {
 	// switch os に runtime.GOOS を宣言
 	// os の戻り値を Boolean で評価する
 	case "darwin":
-	// case で else の処理を行う
+	// case で else if の処理を行う
 		fmt.Println("OS X.")
 		// darwin の bool 値が true の場合に "OS X" を Print する
 	case "linux":
-	// case で else の処理を行う
+	// case で else if の処理を行う
 		fmt.Println("Linux.")
 		// Linux の bool 値が true の場合に "Linux" を Print する
 	default:
-	// 上記の case に合致しない場合の処理
+	// 上記の case に合致しない場合(else の処理)
 		// freebsd, openbsd,
 		// plan9, windows...など
 		fmt.Printf("%s.\n", os)
